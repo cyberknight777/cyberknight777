@@ -23,8 +23,8 @@ fn main() {
 
 I mostly use github for my android kernel development.
 
-Lead Dev in @neternels 
+Lead dev in [https://github.com/neternels](@neternels)
 
-Currently a dev in @team-420
+Currently a dev in [https://github.com/team-420](@team-420)
 
 Checkout my [gitlab profile](https://gitlab.com/cyberknight777) for more of my own projects.
