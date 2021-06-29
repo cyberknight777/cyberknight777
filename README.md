@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ```rust
+#[derive(Debug)]
 fn main() {
     struct Knight {
         skill_1: String,
