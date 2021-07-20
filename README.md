@@ -24,7 +24,7 @@ fn main() {
 
 I mostly use github for my android kernel development.
 
-Lead dev in [@NetErnels](https://github.com/NetErnels) 
+Founder of [@NetErnels](https://github.com/NetErnels) 
 
 Currently a dev in [@Team-420](https://github.com/Team-420)
 
