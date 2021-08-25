@@ -26,6 +26,8 @@ I mostly use github for my android kernel development.
 
 Founder of [@NetErnels](https://github.com/NetErnels) 
 
-Currently a dev in [@Team-420](https://github.com/Team-420)
+A dev in [@Team-420](https://github.com/Team-420)
 
 Checkout my [gitlab profile](https://gitlab.com/cyberknight777) for more of my own projects.
+
+[![Knight's streak](https://github-readme-streak-stats.herokuapp.com?user=cyberknight777&theme=blue-green)](https://git.io/streak-stats)
