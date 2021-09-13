@@ -1,0 +1,41 @@
+#+TITLE: Hi There 👋
+
+#+BEGIN_SRC rust
+use std::fmt;
+
+fn main() {
+    struct Knight {
+        skill_1: String,
+        skill_2: String,
+        skill_3: String,
+        skill_4: String,
+        skill_5: String,
+    }
+
+
+    impl fmt::Display for Knight {
+	fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+            write!(f, "Knight's skills are: {}, {}, {}, {}, {}", self.skill_1, self.skill_2, self.skill_3, self.skill_4, self.skill_5)
+	}
+    }
+
+    let knight_skills = Knight {
+        skill_1: String::from("Bash"),
+        skill_2: String::from("Rust"),
+        skill_3: String::from("Kernel Development"),
+        skill_4: String::from("Git"),
+        skill_5: String::from("Linux"),
+    };
+    println!("{}", knight_skills);
+}
+#+END_SRC
+
+I mostly use github for my android kernel development.
+
+Founder of [[https://github.com/NetErnels][@NetErnels]]
+
+A dev in [[https://github.com/Team-420][@Team-420]]
+
+Checkout my [[https://gitlab.com/cyberknight777][gitlab profile]] for more of my own projects.
+
+#+HTML: <img src=https://github-readme-streak-stats.herokuapp.com?user=cyberknight777&theme=blue-green alt="Knight's streak">
