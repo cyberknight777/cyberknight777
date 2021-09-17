@@ -34,7 +34,7 @@ I mostly use github for my android kernel development.
 
 Founder of [[https://github.com/NetErnels][@NetErnels]]
 
-A dev in [[https://github.com/Team-420][@Team-420]]
+A dev in [[https://github.com/Team-420][@Team-420]] & [[https://github.com/Intellivoid][@Intellivoid]]
 
 Checkout my [[https://gitlab.com/cyberknight777][gitlab profile]] for more of my own projects.
 
