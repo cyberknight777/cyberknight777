@@ -38,6 +38,8 @@ Lead kernel dev in [[https://github.com/Team-420][@Team-420]]
 
 A dev in [[https://github.com/Intellivoid][@Intellivoid]]
 
+Kernel Developer in [[https://github.com/kaisenlinux][@KaisenLinux]] 
+
 Checkout my [[https://gitlab.com/cyberknight777][gitlab profile]] for more of my own projects.
 
 #+HTML: <img src=https://github-readme-streak-stats.herokuapp.com?user=cyberknight777&theme=blue-green alt="Knight's streak">
