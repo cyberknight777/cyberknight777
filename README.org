@@ -38,8 +38,10 @@ Lead kernel dev in [[https://github.com/Team-420][@Team-420]]
 
 A dev in [[https://github.com/Intellivoid][@Intellivoid]]
 
-Kernel Developer in [[https://github.com/kaisenlinux][@KaisenLinux]] 
+A maintainer in [[https://github.com/PixelOS-AOSP][PixelOS]] and [[https://github.com/YAAP][YAAP]]
 
-Checkout my [[https://gitlab.com/cyberknight777][gitlab profile]] for more of my own projects.
+Checkout my [[https://gitlab.com/cyberknight777][gitlab profile]] for more of my own projects (although I am starting to move to GitHub for more personal projects now).
+
+My [[https://cyberknight777.dev][site]] should have more information regarding me.
 
 #+HTML: <img src=https://github-readme-streak-stats.herokuapp.com?user=cyberknight777&theme=blue-green alt="Knight's streak">
