@@ -38,7 +38,7 @@ Lead kernel dev in [[https://github.com/Team-420][@Team-420]]
 
 A dev in [[https://github.com/Intellivoid][@Intellivoid]]
 
-A maintainer in [[https://github.com/PixelOS-AOSP][PixelOS]] and [[https://github.com/YAAP][YAAP]]
+A maintainer in [[https://github.com/PixelOS-AOSP][PixelOS]], [[https://github.com/AOSPA][Paranoid Android]] and [[https://github.com/YAAP][YAAP]]
 
 Checkout my [[https://gitlab.com/cyberknight777][gitlab profile]] for more of my own projects (although I am starting to move to GitHub for more personal projects now).
 
