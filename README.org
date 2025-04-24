@@ -1,4 +1,4 @@
-#+TITLE: Hi There 👋
+#+TITLE: Hello There! 👋
 
 #+BEGIN_SRC rust
 use std::fmt;
